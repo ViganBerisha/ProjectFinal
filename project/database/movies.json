@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "name": "Goodfellas",
+      "genres": "Action,Draam",
+      "image": "https://media.timeout.com/images/105536435/750/562/image.jpg",
+      "directors": "Filan Fisteku",
+      "id": "9385"
+    },
+    {
+      "id": "9385",
+      "name": "The Godfather",
+      "genres": "Action,Thriller",
+      "image": "https://c4.wallpaperflare.com/wallpaper/874/376/908/the-godfather-movies-vito-corleone-wallpaper-preview.jpg",
+      "directors": "Francis Coppola"
+    },
+    {
+      "id": "9385",
+      "name": "Inglorious Bastard",
+      "genres": "Action,Thriller",
+      "image": "https://wallpaperaccess.com/full/1666200.jpg",
+      "directors": "Quentin Tarantino"
+    },
+    {
+      "id": "4276",
+      "name": "asdasd",
+      "genres": "ASDASD",
+      "directors": "ASDASDAS",
+      "image": "https://media.timeout.com/images/105455980/750/562/image.jpg"
+    }
+  ]
+}
